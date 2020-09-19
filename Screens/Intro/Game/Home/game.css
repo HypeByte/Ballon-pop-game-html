@@ -1,0 +1,30 @@
+#balloon {
+    fill: #09e800;
+}
+
+h1{
+    margin: 0px;
+    font-family: 'Press Start 2P', cursive;
+    display: inline;
+    border-style: solid;
+    border-color: white;
+}
+
+a {
+    margin: 0px;
+    font-size: 40px;
+    font-family: 'Press Start 2P', cursive;
+     border-style: solid;
+     border-color: white;
+}
+body {
+    background-color: black;
+}
+
+#pause {
+    stroke: white;
+}
+
+#unpause {
+    stroke: white;
+}
